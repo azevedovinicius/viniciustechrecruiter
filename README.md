@@ -1,4 +1,4 @@
-### Olá, Eu sou o href="https://www.linkedin.com/in/vin%C3%ADciusazevedo/"><i>Vinicius Azevedo</i></ 😎👋
+### Olá, Eu sou o <"https://www.linkedin.com/in/vin%C3%ADciusazevedo/"><i>Vinicius Azevedo> 😎👋
 
 ▪ ⚡ Tech Recruiter à nivel Brasil para diversas posições e níveis de senioridade;
 ▪ 🎓 Graduado em Administração de Recursos Humanos;
@@ -7,4 +7,4 @@
 ▪ ❤️ Apaixonado por Talent Acquisition, e por conectar pessoas;
 ▪ 🔎 A procura dos melhores talentos
 
-▪ 👉 Segue aí, estamos à procura de vocês!!
+▪ 👉 Segue aí, estamos à procura de vocês!! 😎
