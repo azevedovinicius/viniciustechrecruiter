@@ -1,4 +1,4 @@
-### Fala aí!  Eu sou o Vinicius Azevedo 😎👋
+### Fala aí! 😎 Eu sou o Vinicius Azevedo 👋
 
 
 ▪ ⚡ Tech Recruiter à nivel Brasil para diversas posições e níveis de senioridade                                                                                     
